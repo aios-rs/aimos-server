@@ -8,8 +8,8 @@
 
 ## 前端项目列表
 
-1. [https://github.com/aios-rs/mozhi](https://github.com/aios-rs/mozhi) (基于MakePad)
-2. [https://github.com/aios-rs/agent-pilot](https://github.com/aios-rs/agent-pilot) (基于React)
+1. [https://github.com/aios-rs/aimos](https://github.com/aios-rs/mozhi) (基于MakePad)
+2. [https://github.com/aios-rs/aimos-react](https://github.com/aios-rs/agent-pilot) (基于React)
 
 ## 安装文档
 
