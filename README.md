@@ -11,6 +11,11 @@
 1. [https://github.com/aios-rs/mozhi](https://github.com/aios-rs/mozhi) (基于MakePad)
 2. [https://github.com/aios-rs/agent-pilot](https://github.com/aios-rs/agent-pilot) (基于React)
 
+## 安装文档
+
+1. 项目提供开箱即用的docker镜像，内含AgentOS依赖的各种库，推荐使用此方式安装
+2. release页下载，内置嵌入式数据库，推荐本地快速体验使用。
+
 ## Not open-contribution
 AgentOS is closed to contributions (unless a maintainer permits it, which is extremely rare).
 
